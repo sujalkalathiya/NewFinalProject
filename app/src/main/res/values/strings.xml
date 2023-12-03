@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NewFinalProject</string>
+    <string name="enter_latitude">Enter Latitude</string>
+    <string name="enter_longitude">Enter longitude</string>
+    <string name="get_sunrise_sunset">Get time</string>
+    <string name="help_title">How to use</string>
+    <string name="help_message_sunrise_sunset">Enter latitude and longitude in the text fields and click on the button to see the sunrise and sunset time</string>
+    <string name="show_saved_lookups">Saved</string>
+</resources>
