@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ન્યૂફાઇનલ પ્રોજેક્ટ</string>
+    <string name="enter_latitude">અક્ષાંશ દાખલ કરો</string>
+    <string name="enter_longitude">રેખાંશ દાખલ કરો</string>
+    <string name="get_sunrise_sunset">સમય મેળવો</string>
+    <string name="help_title">કેવી રીતે વાપરવું</string>
+    <string name="help_message_sunrise_sunset">ટેક્સ્ટ ફીલ્ડ્સમાં અક્ષાંશ અને રેખાંશ દાખલ કરો અને સૂર્યોદય અને સૂર્યાસ્તનો સમય જોવા માટે બટન પર ક્લિક કરો</string>
+    <string name="show_saved_lookups">સાચવેલ</string>
+</resources>
